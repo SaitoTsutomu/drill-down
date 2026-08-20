@@ -12,7 +12,7 @@ https://saitotsutomu.github.io/drill-down/
 
 ## ローカルで実行
 
-下記を実行して `http://localhost:8000/` を開いてください。
+下記を実行して `http://localhost:8000/drill-down/` を開いてください。
 
 ```sh
 python3 -m http.server 8000
